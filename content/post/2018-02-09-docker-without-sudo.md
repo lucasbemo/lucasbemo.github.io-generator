@@ -1,19 +1,20 @@
 ---
-layout:     post
-title:      "如何使用非root用户执行docker命令"
-subtitle:   ""
-description: "如何使用非root用户执行docker命令"
-excerpt: "如何使用非root用户执行docker命令"
-date:       2018-02-09 10:00:00
-author:     "赵化冰"
-image:     "https://img.zhaohuabing.com/in-post/docker.jpg"
-published: true
-showtoc: false 
+layout:         post
+title:          "如何使用非root用户执行docker命令"
+subtitle:       ""
+description:    "如何使用非root用户执行docker命令"
+excerpt:        "如何使用非root用户执行docker命令"
+date:           2018-02-09 10:00:00
+author:         "赵化冰"
+image:          "https://img.zhaohuabing.com/in-post/docker.jpg"
+published:      true
+showtoc:        false 
 tags:
     - Tips
     - Docker
-URL: "/2018/02/09/docker-without-sudo/"
-categories: [ Tips ]
+URL:            "/2018/02/09/docker-without-sudo/"
+categories:     [ Tips ]
+draft:          false
 ---
 
 ### Add the docker group if it doesn't already exist:

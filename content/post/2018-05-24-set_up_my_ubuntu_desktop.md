@@ -1,16 +1,17 @@
 ---
-layout:     post
-title:      "Everything about Setting Up My Ubuntu Desktop"
-description: "Everything about setting up my own ubuntu desktop, it's just a Note in case I need it later"
-excerpt: "Everything about setting up my own ubuntu desktop, it's just a Note in case I need it later"
-date:    2018-05-24
-author:     "赵化冰"
-image: "https://img.zhaohuabing.com/in-post/2018-05-23-service_2_service_auth/background.jpg"
-published: true 
+layout:     	post
+title:      	"Everything about Setting Up My Ubuntu Desktop"
+description: 	"Everything about setting up my own ubuntu desktop, it's just a Note in case I need it later"
+excerpt: 		"Everything about setting up my own ubuntu desktop, it's just a Note in case I need it later"
+date:    		2018-05-24
+author:     	"赵化冰"
+image: 			"https://img.zhaohuabing.com/in-post/2018-05-23-service_2_service_auth/background.jpg"
+published: 		true 
 tags:
     - ubuntu 
-URL: "/2018/05/24/set_up_my_ubuntu_desktop/"
-categories: [ "Tips" ]    
+URL: 			"/2018/05/24/set_up_my_ubuntu_desktop/"
+categories: 	[ "Tips" ]
+draft:      	false
 ---
 
 ## Generate SSH Key Pair

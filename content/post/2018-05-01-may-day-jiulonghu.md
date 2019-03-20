@@ -1,16 +1,17 @@
 ---
-layout:     post
-title:      "川西秘境探险"
-subtitle:   "2018五一甘堡藏寨，九龙湖自驾游记"
-date:       2018-05-01
-author:     "赵化冰"
-image: "https://img.zhaohuabing.com/in-post/2018-05-01-may-day-jiulonghu/snowmountain.jpg"
-published: true
-hide-in-home: true
+layout:         post
+title:          "川西秘境探险"
+subtitle:       "2018五一甘堡藏寨，九龙湖自驾游记"
+date:           2018-05-01
+author:         "赵化冰"
+image:          "https://img.zhaohuabing.com/in-post/2018-05-01-may-day-jiulonghu/snowmountain.jpg"
+published:      true
+hide-in-home:   true
 tags:
     - Travel
-categories: [ Life ]
-URL: "/2018/05/01/may-day-jiulonghu"
+categories:     [ Life ]
+URL:            "/2018/05/01/may-day-jiulonghu"
+draft:          false
 ---
 
 ## 寻浮云牧场不遇
