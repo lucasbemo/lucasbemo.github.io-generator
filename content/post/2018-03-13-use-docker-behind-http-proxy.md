@@ -12,7 +12,7 @@ tags:
     - Docker
 URL:            "/2018/03/13/use-docker-behind-http-proxy/"
 categories:     [ Tips ]
-draft:          false
+draft:          true
 ---
 ## Ubuntu
 ### 设置docker使用http proxy

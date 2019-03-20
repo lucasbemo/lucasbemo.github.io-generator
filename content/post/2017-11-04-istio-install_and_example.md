@@ -11,7 +11,7 @@ tags:
     - Istio
 URL:          "/2017/11/04/istio-install_and_example/"
 categories:   [ Tech ]
-draft:        false
+draft:        true
 ---
 
 ## 服务网格简介

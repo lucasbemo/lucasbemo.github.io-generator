@@ -13,7 +13,7 @@ tags:
     - Security
 URL:            "/2018/05/23/external_system_auth/"
 categories:     [ "Tech" ]
-draft:          false
+draft:          true
 ---
 
 ## 外部系统访问控制

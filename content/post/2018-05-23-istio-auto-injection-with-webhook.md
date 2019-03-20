@@ -14,7 +14,7 @@ tags:
     - Istio
 URL:            "/2018/05/23/istio-auto-injection-with-webhook/"
 categories:     [ Tech ]
-draft:          false
+draft:          true
 ---
 
 ## 前言

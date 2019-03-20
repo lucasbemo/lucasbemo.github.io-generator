@@ -11,7 +11,7 @@ tags:
     - Kubernetes
 URL:          "/2017/11/28/access-application-from-outside/"
 categories:   [ Tech ]
-draft:        false
+draft:        true
 ---
 
 ## 前言

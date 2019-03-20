@@ -11,7 +11,7 @@ categories:     [ "Tech"]
 tags:
     - Istio
 URL:            "/2017/11/07/istio-traffic-shifting/"
-draft:          false
+draft:          true
 ---
 
 关于Istio的更多内容请参考[istio中文文档](http://istio.doczh.cn/)。

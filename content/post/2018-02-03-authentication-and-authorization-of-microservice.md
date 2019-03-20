@@ -13,7 +13,7 @@ tags:
     - Security
 URL:          "/2018/05/22/user_authentication_authorization/"
 categories:   [ Tech ]
-draft:        false
+draft:        true
 ---
 
 ## 前言
