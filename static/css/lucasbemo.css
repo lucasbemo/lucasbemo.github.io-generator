@@ -35,3 +35,7 @@
     /* src: url('font/the_wildeast/The Wildeast.ttf') format('truetype'); */
     src: url('font/8th_element/8thelementbi.ttf') format('truetype');
 }
+
+article {
+    overflow-x: initial !important; 
+}
