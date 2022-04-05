@@ -1,5 +1,5 @@
-baseurl = "https://lucasbemo.github.io"
-title = "LUCASBEMO"
+baseURL = 'http://localhost:1313/'
+title = "Lucas Zamboni Blog"
 theme = "hugo-theme-cleanwhite"
 languageCode = "en-us"
 # Enable comments by entering your Disqus shortname
@@ -9,6 +9,7 @@ preserveTaxonomyNames = true
 paginate = 5 #frontpage pagination
 hasCJKLanguage = true
 
+
 [outputs]
 home = ["HTML", "RSS", "Algolia"]
 
@@ -16,8 +17,8 @@ home = ["HTML", "RSS", "Algolia"]
   custom_css = ["css/lucasbemo.css"]
 
   # header_image = "img/home-bg-jeep.jpg"
-  header_image = "img/bridge-clouds-cloudy-556416.jpg"
-  SEOTitle = "LUCASBEMO"
+  header_image = "img/road-166543_1920.jpeg"
+  SEOTitle = "Lucas Zamboni Blog"
   description = "赵化冰，程序员, 开源爱好者，生活探险家 | 这里是 赵化冰 的博客，与你一起发现更大的世界。"
   keyword = "赵化冰, zhaohuabing, Zhaohuabing, , 赵化冰的网络日志, 赵化冰的博客, Zhaohuabing Blog, 博客, 个人网站, 互联网, Web, 云原生, PaaS, Istio, Kubernetes, 微服务, Microservice"
   # slogan = "路在脚下，心向远方"
@@ -65,14 +66,14 @@ home = ["HTML", "RSS", "Algolia"]
 
   [params.social]
   rss            = true 
-  email          = "youremail@gmail.com"
+  email          = "lucasbemo@gmail.com"
+  twitter       = "https://twitter.com/lucasbemo"
+  linkedin       = "https://www.linkedin.com/in/lucasbemo"
+  github         = "https://github.com/lucasbemo"
   #facebook      = "full profile url in facebook"
   #googleplus    = "full profile url in googleplus"
-  #twitter       = "full profile url in twitter"
-  linkedin       = "https://www.linkedin.com/in/lucasbemo"
-  stackoverflow  = "https://stackoverflow.com/users/lucasbemo"
+  # stackoverflow  = "https://stackoverflow.com/users/lucasbemo"
   #instagram     = "full profile url in instagram"
-  github         = "https://github.com/lucasbemo"
   # wechat         = "your wechat qr code image"
 #  medium         = "full profile url in medium"
   #pinterest     = "full profile url in pinterest"
