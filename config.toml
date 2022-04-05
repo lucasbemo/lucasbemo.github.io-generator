@@ -16,12 +16,10 @@ home = ["HTML", "RSS", "Algolia"]
 [params]
   custom_css = ["css/lucasbemo.css"]
 
-  # header_image = "img/home-bg-jeep.jpg"
   header_image = "img/road-166543_1920.jpeg"
   SEOTitle = "Lucas Zamboni Blog"
-  description = "赵化冰，程序员, 开源爱好者，生活探险家 | 这里是 赵化冰 的博客，与你一起发现更大的世界。"
-  keyword = "赵化冰, zhaohuabing, Zhaohuabing, , 赵化冰的网络日志, 赵化冰的博客, Zhaohuabing Blog, 博客, 个人网站, 互联网, Web, 云原生, PaaS, Istio, Kubernetes, 微服务, Microservice"
-  # slogan = "路在脚下，心向远方"
+  description = "Lucas Zamboni"
+  keyword = "Lucas Zamboni, Lucas Bemo Blog, PaaS, Istio, Kubernetes, Microservice"
   slogan = "Walk on! What you got, they can't steal it."
 
   image_404 = "img/404-bg.jpg"
