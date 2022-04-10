@@ -1,13 +1,19 @@
 ---
 layout: post
 title: "Hello Reader"
-# subtitle: "Hello World, Hello Reader"
+# subtitle: ""
+# description: "Hello World"
 date: 2022-04-05
 author: "Lucas Zamboni"
 URL: "/2022/04/05/hello-reader/"
-image: "img/benjamin-sow-rd3c5yP0uwE-unsplash.jpeg"
+image: "img/octavian-dan-iY6QMkP66mI-unsplash.jpeg"
+tags:
+  - Blog
+categories: [Blog]
+published: true
 ---
 
-My name is Lucas Zamboni and I’ve been working with Java and Web Technologies for over 7 years, but I should not be limited to write only about Java Language Stuff.
+Welcome to my personal blog,
 
-Welcome to my personal blog, where you can find code snippets, how to’s, design patterns, system design and archtecture Softwares.
+My name is Lucas Zamboni and I'm a Software Engineer/Architecture.
+Here I will share some code snippets, Approaches of Design Patterns, System Designs and Architecture Solutions.

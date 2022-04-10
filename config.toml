@@ -16,7 +16,8 @@ home = ["HTML", "RSS", "Algolia"]
 [params]
   custom_css = ["css/lucasbemo.css"]
 
-  header_image = "img/road-166543_1920.jpeg"
+  
+  header_image = "img/bridge-clouds-cloudy-556416.jpg"
   SEOTitle = "Lucas Zamboni Blog"
   description = "Lucas Zamboni"
   keyword = "Lucas Zamboni, Lucas Bemo Blog, PaaS, Istio, Kubernetes, Microservice"
@@ -37,11 +38,8 @@ home = ["HTML", "RSS", "Algolia"]
   algolia_apiKey = ""
 
   # Sidebar settings
-  # sidebar_about_description = "Software Engineer, Open Source Enthusiast and Life Adventurer"
   sidebar_about_description = "Software Engineer/Architecture"
-  #sidebar_avatar = "img/avatar-zhaohuabing.jpg"      # use absolute URL, seeing it's used in both `/` and `/about/`
-  # sidebar_avatar = "img/zhaohuabing.png"      # use absolute URL, seeing it's used in both `/` and `/about/`
-  sidebar_avatar = "img/eu_beco_do_batman-cropped.png"
+  sidebar_avatar = "img/eu_beco_do_batman-cropped.png" # use absolute URL, seeing it's used in both `/` and `/about/`
 
   featured_tags = true 
   featured_condition_size = 1 
@@ -63,18 +61,18 @@ home = ["HTML", "RSS", "Algolia"]
   about_me = true
 
   [params.social]
-  rss            = true 
-  email          = "lucasbemo@gmail.com"
-  twitter       = "https://twitter.com/lucasbemo"
+  website        = "https://www.lucaszamboni.com" 
   linkedin       = "https://www.linkedin.com/in/lucasbemo"
   github         = "https://github.com/lucasbemo"
-  #facebook      = "full profile url in facebook"
-  #googleplus    = "full profile url in googleplus"
+  email          = "lucasbemo@gmail.com"
+  twitter        = "https://twitter.com/lucasbemo"
+  # facebook      = "full profile url in facebook"
+  # googleplus    = "full profile url in googleplus"
   # stackoverflow  = "https://stackoverflow.com/users/lucasbemo"
-  #instagram     = "full profile url in instagram"
+  # instagram     = "full profile url in instagram"
   # wechat         = "your wechat qr code image"
-#  medium         = "full profile url in medium"
-  #pinterest     = "full profile url in pinterest"
+  # medium         = "full profile url in medium"
+  # pinterest     = "full profile url in pinterest"
 
   
   
