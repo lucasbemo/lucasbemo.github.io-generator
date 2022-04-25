@@ -17,11 +17,12 @@ home = ["HTML", "RSS", "Algolia"]
   custom_css = ["css/lucasbemo.css"]
 
   
-  header_image = "img/bridge-clouds-cloudy-556416.jpg"
+  # header_image = "img/bridge-clouds-cloudy-556416.jpg"
+  header_image = "img/mark-konig-JzPwEn9COCA-unsplash.jpeg"
   SEOTitle = "Lucas Zamboni Blog"
   description = "Lucas Zamboni"
   keyword = "Lucas Zamboni, Lucas Bemo Blog, PaaS, Istio, Kubernetes, Microservice"
-  slogan = "Walk on! What you got, they can't steal it."
+  # slogan = "\"Walk on! What you got, they can't steal it.\""
 
   image_404 = "img/404-bg.jpg"
   title_404 = "Not Found :("
